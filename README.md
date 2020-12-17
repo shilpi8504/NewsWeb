@@ -155,7 +155,7 @@ span.psw {
   </nav>
 
   <div class="container my-3">
-    <h3>Top News <span class="badge badge-secondary">by Indian shatabdi News</span></h3>
+    <h3>Top News <span class="badge badge-secondary">IION</span></h3>
     <hr>
     <div class="accordion" id="newsAccordion"></div>
   </div>
@@ -181,7 +181,7 @@ console.log("This is my index js file");
 
 // Initialize the news api parameters
 let source = 'the-times-of-india';
-let apiKey = 'd093053d72bc40248998159804e0e***'
+let apiKey = '8593ec8ce24c43dcbf444ca85ae208ec'
 
 // Grab the news container
 let newsAccordion = document.getElementById('newsAccordion');
